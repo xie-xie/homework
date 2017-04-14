@@ -1,0 +1,59 @@
+                                     max       min          mean     median  \
+surgery                              2.0       1.0  1.397993e+00       1.00   
+ Age                                 9.0       1.0  1.640000e+00       1.00   
+Hospital Number                5305629.0  518476.0  1.085889e+06  530305.50   
+rectal temperature                  40.8      35.4  3.816792e+01      38.20   
+pulse                              184.0      30.0  7.191304e+01      64.00   
+respiratory rate                    96.0       8.0  3.041736e+01      24.50   
+ temperature of extremities          4.0       1.0  2.348361e+00       3.00   
+peripheral pulse                     4.0       1.0  2.017316e+00       2.00   
+mucous membranes                     6.0       1.0  2.853755e+00       3.00   
+capillary refill time                3.0       1.0  1.305970e+00       1.00   
+ pain                                5.0       1.0  2.951020e+00       3.00   
+peristalsis                          4.0       1.0  2.917969e+00       3.00   
+ abdominal distension                4.0       1.0  2.266393e+00       2.00   
+nasogastric tube                     3.0       1.0  1.755102e+00       2.00   
+nasogastric reflux                   3.0       1.0  1.582474e+00       1.00   
+ nasogastric reflux PH               7.5       1.0  4.707547e+00       5.00   
+ rectal examination                  4.0       1.0  2.757576e+00       3.00   
+ abdomen                             5.0       1.0  3.692308e+00       4.00   
+ packed cell volume                 75.0      23.0  4.629520e+01      45.00   
+ total protein                      89.0       3.3  2.445693e+01       7.50   
+ abdominocentesis appearance         3.0       1.0  2.037037e+00       2.00   
+ abdomcentesis total protein        10.1       0.1  3.019608e+00       2.25   
+outcome                              3.0       1.0  1.551839e+00       1.00   
+surgical lesion                      2.0       1.0  1.363333e+00       1.00   
+ lesion 1                        41110.0       0.0  3.657880e+03    2673.50   
+ lesion 2                         7111.0       0.0  9.022667e+01       0.00   
+ lesion 3                         2209.0       0.0  7.363333e+00       0.00   
+cp_data                              2.0       1.0  1.670000e+00       2.00   
+
+                                quartile  missing  
+surgery                             1.00    -99.0  
+ Age                                1.00   -100.0  
+Hospital Number                528904.00   -100.0  
+rectal temperature                 37.80    -40.0  
+pulse                              48.00    -76.0  
+respiratory rate                   18.50    -42.0  
+ temperature of extremities         1.00    -44.0  
+peripheral pulse                    1.00    -31.0  
+mucous membranes                    1.00    -53.0  
+capillary refill time               1.00    -68.0  
+ pain                               2.00    -45.0  
+peristalsis                         3.00    -56.0  
+ abdominal distension               1.00    -44.0  
+nasogastric tube                    1.00      4.0  
+nasogastric reflux                  1.00      6.0  
+ nasogastric reflux PH              3.00    147.0  
+ rectal examination                 1.00      2.0  
+ abdomen                            2.00     18.0  
+ packed cell volume                38.00    -71.0  
+ total protein                      6.50    -67.0  
+ abdominocentesis appearance        1.00     65.0  
+ abdomcentesis total protein        2.00     98.0  
+outcome                             1.00    -99.0  
+surgical lesion                     1.00   -100.0  
+ lesion 1                        2111.75   -100.0  
+ lesion 2                           0.00   -100.0  
+ lesion 3                           0.00   -100.0  
+cp_data                             1.00   -100.0  
